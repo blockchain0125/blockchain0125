@@ -161,7 +161,7 @@ Full Stack developer with awesome web technical skills, hefty product developmen
 <h4 align="center">🔥 Stats 🔥</h4>
 <hr>
 <br>
-<!-- <p align=center>
+<p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=GoldLiondev&theme=react&border=61dafb&hide_border=true" alt="GoldLiondev" />
@@ -183,7 +183,7 @@ Full Stack developer with awesome web technical skills, hefty product developmen
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GoldLiondev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
   
   <br>
-</p> -->
+</p>
 <hr>
 
 
