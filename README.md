@@ -157,10 +157,6 @@ Full Stack developer with awesome web technical skills, hefty product developmen
   </a>
 </p>
 <hr>
-<br>
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevGod0125&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-  
-  <br>
 </p>
 <hr>
 
