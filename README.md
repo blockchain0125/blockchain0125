@@ -1,6 +1,6 @@
-## DevGod0125
+## GitNaruto0125
 <div align="center">
-<img src="https://user-images.githubusercontent.com/82691041/137208437-bdcd36bf-08be-441b-aa69-e110054ec08b.jpg" alt="DevGod0125">
+<img src="https://user-images.githubusercontent.com/82691041/137208437-bdcd36bf-08be-441b-aa69-e110054ec08b.jpg" alt="GitNaruto0125">
 </div>
 <br>
 
